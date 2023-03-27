@@ -1,0 +1,19 @@
+public class MyClass2 {
+    private int myField;
+
+    public MyClass2(int myField) {
+<<<<<<< HEAD
+        this.myField = myField; // This is first comment
+=======
+        this.myField = myField; // this is new comment
+>>>>>>> newbranch
+    }
+
+    public int getMyField() {
+        return myField;
+    }
+
+    public void setMyField(int myField) {
+        this.myField = myField;
+    }
+}
