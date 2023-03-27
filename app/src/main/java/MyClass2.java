@@ -2,7 +2,7 @@ public class MyClass2 {
     private int myField;
 
     public MyClass2(int myField) {
-        this.myField = myField;
+        this.myField = myField; // this is new comment
     }
 
     public int getMyField() {
